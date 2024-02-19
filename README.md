@@ -2,11 +2,6 @@
 
 BetterHeimer is a Python-based application designed to scan Minecraft servers within a specified network range. It provides a graphical user interface (GUI) for easy interaction with the scanning and checking functionality.
 
-![image](https://github.com/ALW1EZ/betterheimer/assets/46139228/f5b232e8-01db-4131-8e7b-2f312335abf0)
-
-![image](https://github.com/ALW1EZ/betterheimer/assets/46139228/7a69d3e6-8779-4478-a931-2c0376e90c4c)
-
-
 ## Features
 
 - **Network Scanning**: Scan a range of IP addresses for Minecraft servers and retrieve information such as the server version, MOTD, number of players online, and player names.
