@@ -1,0 +1,6 @@
+asyncio-dgram==2.1.2
+dnspython==2.6.1
+mcstatus==11.1.1
+PyQt5==5.15.10
+PyQt5-Qt5==5.15.2
+PyQt5-sip==12.13.0

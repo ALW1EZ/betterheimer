@@ -1,0 +1,4 @@
+.venv
+check/node_modules
+check/package-lock.json
+check/package.json
